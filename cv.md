@@ -1,5 +1,6 @@
 # Natalia Sas
 ## junior
+<<<<<<< HEAD
 ## Contacts:
 * e-mail: natalia7sas@gmail.com
 * github: sasnatalia
@@ -23,3 +24,6 @@ Easy to learn, focusing on final goals.
 ## Languages:
 * Russian — Native
 * English — A2 — Pre-Intermediate
+=======
+## сv will be later
+>>>>>>> rsschool-cv-html
