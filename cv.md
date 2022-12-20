@@ -1,15 +1,15 @@
 # Natalia Sas
 ## junior
 ## Contacts:
-* e-mail: natalia7sas@gmail.com;
-* github: sasnatalia;
+* e-mail: natalia7sas@gmail.com
+* github: sasnatalia
 * discord: NataliaSas(sasnatalia)#0195
 ## About me:
 Easy to learn, focusing on final goals.
 ## Skills:
-* HTML;
-* CSS;
-* Git;
+* HTML (in progress)
+* CSS (in progress)
+* Git (in progress)
 ## Code Example:
 ```
 ```
@@ -21,5 +21,5 @@ Easy to learn, focusing on final goals.
     + 
 
 ## Languages:
-* Russian — Native;
-* English — A2 — Pre-Intermediate.
+* Russian — Native
+* English — A2 — Pre-Intermediate
